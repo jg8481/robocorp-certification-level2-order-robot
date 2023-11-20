@@ -12,7 +12,6 @@ Library             RPA.FileSystem
 Library             RPA.Tables
 Library             RPA.HTTP
 Library             RPA.Archive
-Library             Dialogs
 Library             RPA.Robocorp.Vault
 
 
